@@ -6,8 +6,8 @@ To play the game, you will need to have Java installed on your computer. Here ar
 
 1. Clone the repository to your local machine: git clone `https://github.com/arizkyrahman/flappybird_java.git`
 2. Open the command prompt and navigate to the project folder: `cd flappy_java`
-3. Compile the game using the Java compiler: `javac FlappyBird.java .. `
-4. Run the game using the Java Virtual Machine: `java flappybird_java.. 
+3. Compile the game using the Java compiler: `javac Game.java`
+4. Run the game using the Java Virtual Machine: `java flappybird_java` 
 
 ## How to Play
 The objective of the game is to fly the bird through the pipes without touching them. The bird automatically moves forward, and the player must click the mouse to make the bird flap its wings and fly upwards. If the bird hits a pipe or the ground, the game is over.
